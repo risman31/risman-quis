@@ -1,0 +1,7 @@
+{
+  "name": "quis_risman",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
