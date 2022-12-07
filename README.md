@@ -1,5 +1,3 @@
 #quis risman
 # quis-risman
-# quis-risman
- quis-risman
-# risman-quis
+Tugas Ionic Tampilan ELearning
